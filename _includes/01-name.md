@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# I'm RINSHA AP
+## ECE Student
+### like to play badminton
